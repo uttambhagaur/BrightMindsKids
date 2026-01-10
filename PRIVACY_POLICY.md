@@ -1,18 +1,18 @@
 # Privacy Policy
 
-Effective date: 31 December 2025
+Effective date: 10 January 2026
 
 This Privacy Policy describes how Bhagaur (“we”, “us”, “our”) collects, uses, discloses, and protects personal information when you use BrightMinds Kids or visit our website.
 
-Important summary: At the time of this release we do not collect personal information directly from users (for example: name, email address, phone number). In a future release we will enable internet access to display ads; third-party ad networks and their SDKs may collect device identifiers or other technical information — see "Ads and third parties" below.
+Important summary: We do not collect personal information directly from users (such as name, email, or phone number). No login or sign-up is required. The app displays advertisements provided by third-party ad networks (e.g., Google AdMob), which may collect device or advertising identifiers to provide functional ad services in compliance with COPPA. — see "Ads and third parties" below.
 
 ## 1. Scope
 - Applicability: This policy applies to personal data collected from users worldwide. Specific legal obligations may vary by jurisdiction (e.g., GDPR, CCPA).
 
 ## 2. Information We Collect
-- Data we do NOT collect: We do not collect personal information such as name, email address, postal address, or phone numbers from users in this release.
+- Data we do NOT collect: We do not collect personal information such as name, email address, postal address, or phone numbers from users. No login, account creation, or sign-up is required to use the app.
 - Automatically collected technical data: the app may collect non-identifying technical information needed to operate the app (e.g., app version, crash reports, basic analytics, and aggregated usage statistics). These data are used only to improve the product.
-- Ads & third-party collection: When internet-enabled ads are activated in a future release, third-party ad providers and ad networks integrated into the app may collect device identifiers, advertising identifiers (such as GAID/IDFA), IP addresses, and related information. The collection and use of such information is governed by those third parties' policies.
+- Ads & third-party collection: The app displays ads. Third-party ad providers (such as Google AdMob) and ad networks integrated into the app may collect device identifiers, advertising identifiers (such as GAID/IDFA), IP addresses, and related technical information for the purpose of ad delivery, frequency capping, and performance measurement. The collection and use of such information is governed by those third parties' policies and complies with COPPA.
 - Payment data: If you make purchases through a store (e.g., Google Play), payment processing is handled by the store or payment provider — we do not receive or store full card details.
 
 ## 3. How We Use Data
@@ -40,10 +40,10 @@ Important summary: At the time of this release we do not collect personal inform
 - We retain personal data as long as necessary to provide services, comply with legal obligations, resolve disputes, and enforce agreements.
 
 ## 8. Your Rights
-- Because we do not collect personal information in this release, many data subject requests (access, rectification, deletion, portability) are not applicable. If you believe we hold personal data about you, contact: foisonpro@gmail.com and we will investigate.
+- Because we do not collect personal information directly, many data subject requests (access, rectification, deletion, portability) are not applicable. If you believe we hold personal data about you, contact: foisonpro@gmail.com and we will investigate.
 
 ## 9. Cookies & Tracking
-- We currently do not set cookies for personalized tracking within the app. If ads or web-based features are enabled in future releases, cookies and similar technologies may be used by third-party providers. See `COOKIE_POLICY.md` for details.
+- We do not set first-party cookies for personalized tracking within the app. Advertising identifiers are used by third-party providers for ad delivery and measurement. See `COOKIE_POLICY.md` for details.
 
 ## 10. Security
 - We implement reasonable technical and organizational measures. See `SECURITY_POLICY.md`.

@@ -1,6 +1,6 @@
 # Terms of Service
 
-Effective date: 31 December 2025
+Effective date: 10 January 2026
 
 These Terms of Service govern your use of BrightMinds Kids provided by Bhagaur. By accessing or using the service, you agree to these terms.
 
@@ -8,13 +8,13 @@ These Terms of Service govern your use of BrightMinds Kids provided by Bhagaur. 
 - You must be at least the minimum legal age in your jurisdiction to use the service.
 
 ## 2. Accounts
-- Account creation: this app does not require or collect account credentials in the current release.
-- Account security: if future features introduce accounts, you will be responsible for activity under your account and must maintain accurate information.
+- No Account Required: BrightMinds Kids does not require account creation, login, or sign-up. You can access all features without providing personal credentials.
+- Future Features: if future releases introduce accounts, you will be responsible for activity under your account and must maintain accurate information.
 
 ## 3. Acceptable Use
 - Do not use the service for unlawful, fraudulent, or abusive activities.
 - Prohibited content: harassment, hate speech, illegal material, and malware distribution.
-- Internet & ads: the app may connect to the internet to display third-party ads in future releases; you must not attempt to circumvent or manipulate ad delivery or any third-party services.
+- Internet & ads: the app connects to the internet to display third-party ads; you must not attempt to circumvent or manipulate ad delivery or any third-party services.
 
 ## 4. Content Ownership & License
 - You retain ownership of content you submit.
